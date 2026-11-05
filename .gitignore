@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+captures/
+exports/
+assets/hand_landmarker.task
+.DS_Store
